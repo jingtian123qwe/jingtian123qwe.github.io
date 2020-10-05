@@ -31,7 +31,7 @@ The difference is that hitch point can be set not only at the midpoint of rear a
 
 ## Perpendicular Parking
 
-![Desktop View](/Animation/PathPlaning/PerpendicularParkingTrailer.gif)
+![Perpendicular parking](/Animation/PathPlaning/PerpendicularParkingTrailer.jpeg)
 
 
 
