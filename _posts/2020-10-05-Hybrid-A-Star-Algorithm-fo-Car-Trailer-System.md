@@ -1,5 +1,5 @@
 ---
-title: Hybrid A* Algorithm for Car Trailer System
+title: Hybrid A Star Algorithm for Car Trailer System
 author: Junyu Zhou
 date: 2020-10-05 16:07:00 +0200
 categories: [ADAS Function, Matlab]
@@ -9,7 +9,7 @@ math: true
 ---
 
 
-## Hybrid A* Algorithm for Car Trailer System
+## Hybrid A Star Algorithm for Car Trailer System
 
 ---
 
@@ -19,14 +19,6 @@ Similar path planning algorithms for a car pulling trailer are discussed by [Hab
 
 The difference is that hitch point can be set not only at the midpoint of rear axle but also at the rear point of car body, more general for a car pulling a trailer.
 
-# H1
-
-<h2 data-toc-skip>H2</h2>
-
-<h3 data-toc-skip>H3</h3>
-
-<h4>H4</h4>
-
 ---
 
 ## Perpendicular Parking
@@ -34,6 +26,8 @@ The difference is that hitch point can be set not only at the midpoint of rear a
 ![Perpendicular parking](/Animation/PathPlanning/PerpendicularParkingTrailer.jpg)
 
 ![Perpendicular parking](/Animation/PathPlanning/PerpendicularParkingTrailer.gif)
+
+## Perpendicular Parking
 
 ## List
 
