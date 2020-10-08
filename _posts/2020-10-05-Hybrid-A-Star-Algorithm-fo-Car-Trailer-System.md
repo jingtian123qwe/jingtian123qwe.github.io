@@ -34,7 +34,7 @@ The difference is that hitch point can be set not only at the midpoint of rear a
 ![Parallel parking](/Animation/PathPlanning/ParallelParkingTrailer.gif)
 
 ## Code
-- [Trailer Assist System](https://github.com/jingtian123qwe/ADAS_Functions_MATLAB/tree/master/PathPlanning)
+- [Trailer Assist System - Path Planning](https://github.com/jingtian123qwe/ADAS_Functions_MATLAB/tree/master/PathPlanning)
 ## Ref
 
 - [Practical Search Techniques in Path Planning for Autonomous Driving](http://ai.stanford.edu/~ddolgov/papers/dolgov_gpp_stair08.pdf)

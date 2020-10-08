@@ -21,8 +21,8 @@ Controlling the trailer's direction and the system looks like a trailer pulling 
 
 
 Here the modus operandi of exact input/output linearization technique is used to calculate the steering wheel angle.
-
 It works well with small deviation between current and desired path.
+
 ---
 
 ## Straight Path Tracking
