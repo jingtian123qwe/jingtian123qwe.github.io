@@ -36,6 +36,8 @@ It works well with small deviation between current and desired path.
 
 ![2](/Animation/PathTracking/Deviation_Circle.jpg)
 
+![2](/Animation/PathTracking/Circle.gif)
+
 
 ## Code
 - [Trailer Assist System - Path Tracking](https://github.com/jingtian123qwe/ADAS_Functions_MATLAB/tree/master/PathTracking)
